@@ -1,5 +1,6 @@
-﻿# Project Configuration
-project_name=Team Greeting
-version=1.0
-language=bash
-debug=false
+# Project Configuration
+project_name=BROKEN PROJECT
+version=9.9.9
+language=unknown
+debug=true
+THIS IS WRONG DATA

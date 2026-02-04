@@ -1,4 +1,5 @@
 ﻿# Team Members
-1. Lukas Larndorfer - Project Lead
+1. Lukas Larndorfer- Project Lead
 2. Simon Koller - Developer
-3.  David Weisslfischer- Tester
+3. David WeisslFischer - Tester
+4. David Vrhovac - DevOps

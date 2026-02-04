@@ -1,0 +1,5 @@
+﻿# Project Configuration
+project_name=Team Greeting
+version=1.0
+language=bash
+debug=false

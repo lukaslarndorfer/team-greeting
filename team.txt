@@ -1,3 +1,4 @@
 ﻿# Team Members
-1. Lukas - Project Lead
-2. Simon - Developer
+1. Lukas Larndorfer - Project Lead
+2. Simon Koller - Developer
+3.  David Weisslfischer- Tester
